@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CCSuccessiveRefinement", "CCSuccessiveRefinement\CCSuccessiveRefinement.csproj", "{80EFAFD9-D998-49C2-8350-B6B182C22D47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCSuccessiveRefinement.Tests", "CCSuccessiveRefinement.Tests\CCSuccessiveRefinement.Tests.csproj", "{1D6E5AAA-1365-4B27-8505-9250D8B18AE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80EFAFD9-D998-49C2-8350-B6B182C22D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80EFAFD9-D998-49C2-8350-B6B182C22D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80EFAFD9-D998-49C2-8350-B6B182C22D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80EFAFD9-D998-49C2-8350-B6B182C22D47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D6E5AAA-1365-4B27-8505-9250D8B18AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D6E5AAA-1365-4B27-8505-9250D8B18AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D6E5AAA-1365-4B27-8505-9250D8B18AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D6E5AAA-1365-4B27-8505-9250D8B18AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FD05C4C-E21F-49F5-883F-1E4AFEEE7E29}
+	EndGlobalSection
+EndGlobal
