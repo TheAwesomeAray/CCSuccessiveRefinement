@@ -8,11 +8,7 @@ namespace CCSuccessiveRefinement
         {
             try
             {
-                args = new string[3];
-                args[0] = "-l";
-                args[1] = "-p";
-                args[2] = "-d";
-                Args arg = new Args("l,p#,d*", args);
+                Args arg = new Args("l,p#,d*", new string[] { "-p", "2"});
                 bool logging = arg.GetBoolean('l');
                 int port = arg.GetInt('p');
                 string directory = arg.GetString('d');

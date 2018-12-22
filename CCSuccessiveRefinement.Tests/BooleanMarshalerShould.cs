@@ -11,11 +11,5 @@ namespace CCSuccessiveRefinement.Tests
             string[] args = new string[5];
             arg = new Args("l,p#,d*", args);
         }
-
-        [Fact]
-        public void Test1()
-        {
-
-        }
     }
 }

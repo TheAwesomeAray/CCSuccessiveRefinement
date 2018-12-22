@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/CCSuccessiveRefinement.Tests/bin/Debug/netcoreapp2.0
+/CCSuccessiveRefinement.Tests/obj/Debug/netcoreapp2.0

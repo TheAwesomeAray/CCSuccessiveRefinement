@@ -131,7 +131,7 @@ namespace CCSuccessiveRefinement
             return IntegerArgumentMarshaler.GetValue(marshalers[arg]);
         }
 
-        public int GetDouble(char arg)
+        public double GetDouble(char arg)
         {
             return DoubleArgumentMarshaler.GetValue(marshalers[arg]);
         }
