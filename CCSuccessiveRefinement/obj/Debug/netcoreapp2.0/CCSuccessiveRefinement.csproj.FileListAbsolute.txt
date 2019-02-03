@@ -9,3 +9,14 @@ c:\users\andrew\documents\visual studio 2017\Projects\CCSuccessiveRefinement\CCS
 c:\users\andrew\documents\visual studio 2017\Projects\CCSuccessiveRefinement\CCSuccessiveRefinement\obj\Debug\netcoreapp2.0\CCSuccessiveRefinement.AssemblyInfo.cs
 c:\users\andrew\documents\visual studio 2017\Projects\CCSuccessiveRefinement\CCSuccessiveRefinement\obj\Debug\netcoreapp2.0\CCSuccessiveRefinement.dll
 c:\users\andrew\documents\visual studio 2017\Projects\CCSuccessiveRefinement\CCSuccessiveRefinement\obj\Debug\netcoreapp2.0\CCSuccessiveRefinement.pdb
+C:\Users\Andrew\Source\Repos\TheAwesomeAray\CCSuccessiveRefinement\CCSuccessiveRefinement\bin\Debug\netcoreapp2.0\CCSuccessiveRefinement.deps.json
+C:\Users\Andrew\Source\Repos\TheAwesomeAray\CCSuccessiveRefinement\CCSuccessiveRefinement\bin\Debug\netcoreapp2.0\CCSuccessiveRefinement.runtimeconfig.json
+C:\Users\Andrew\Source\Repos\TheAwesomeAray\CCSuccessiveRefinement\CCSuccessiveRefinement\bin\Debug\netcoreapp2.0\CCSuccessiveRefinement.runtimeconfig.dev.json
+C:\Users\Andrew\Source\Repos\TheAwesomeAray\CCSuccessiveRefinement\CCSuccessiveRefinement\bin\Debug\netcoreapp2.0\CCSuccessiveRefinement.dll
+C:\Users\Andrew\Source\Repos\TheAwesomeAray\CCSuccessiveRefinement\CCSuccessiveRefinement\bin\Debug\netcoreapp2.0\CCSuccessiveRefinement.pdb
+C:\Users\Andrew\Source\Repos\TheAwesomeAray\CCSuccessiveRefinement\CCSuccessiveRefinement\obj\Debug\netcoreapp2.0\CCSuccessiveRefinement.csprojAssemblyReference.cache
+C:\Users\Andrew\Source\Repos\TheAwesomeAray\CCSuccessiveRefinement\CCSuccessiveRefinement\obj\Debug\netcoreapp2.0\CCSuccessiveRefinement.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Source\Repos\TheAwesomeAray\CCSuccessiveRefinement\CCSuccessiveRefinement\obj\Debug\netcoreapp2.0\CCSuccessiveRefinement.AssemblyInfoInputs.cache
+C:\Users\Andrew\Source\Repos\TheAwesomeAray\CCSuccessiveRefinement\CCSuccessiveRefinement\obj\Debug\netcoreapp2.0\CCSuccessiveRefinement.AssemblyInfo.cs
+C:\Users\Andrew\Source\Repos\TheAwesomeAray\CCSuccessiveRefinement\CCSuccessiveRefinement\obj\Debug\netcoreapp2.0\CCSuccessiveRefinement.dll
+C:\Users\Andrew\Source\Repos\TheAwesomeAray\CCSuccessiveRefinement\CCSuccessiveRefinement\obj\Debug\netcoreapp2.0\CCSuccessiveRefinement.pdb

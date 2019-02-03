@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/CCSuccessiveRefinement.Tests/bin/Debug/netcoreapp2.0
+/CCSuccessiveRefinement.Tests/obj/Debug/netcoreapp2.0
+/CCSuccessiveRefinement
